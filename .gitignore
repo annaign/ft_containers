@@ -1,0 +1,9 @@
+*.swp
+.DS_Store
+*.pdf
+.idea
+*.obj
+*.o
+*.d
+.vscode
+a.out
